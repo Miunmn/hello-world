@@ -8,4 +8,3 @@ if num>1:
         print(num,"Es numero primo")
 else: 
     print(num, "No es primo")
-print("FIN")
