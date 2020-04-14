@@ -1,3 +1,4 @@
+
 num = int (input ("Ingresar numero positivo: \n"))
 if num>1:
   for i in range (2,num):
@@ -8,6 +9,3 @@ if num>1:
         print(num,"Es numero primo")
 else: 
     print(num, "No es primo")
-
-    
-    
